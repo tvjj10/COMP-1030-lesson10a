@@ -1,0 +1,15 @@
+D:\School\Comp1030-Programming Fund\intro to OOP\bin\Debug\net7.0\intro to OOP.exe
+D:\School\Comp1030-Programming Fund\intro to OOP\bin\Debug\net7.0\intro to OOP.deps.json
+D:\School\Comp1030-Programming Fund\intro to OOP\bin\Debug\net7.0\intro to OOP.runtimeconfig.json
+D:\School\Comp1030-Programming Fund\intro to OOP\bin\Debug\net7.0\intro to OOP.dll
+D:\School\Comp1030-Programming Fund\intro to OOP\bin\Debug\net7.0\intro to OOP.pdb
+D:\School\Comp1030-Programming Fund\intro to OOP\obj\Debug\net7.0\intro to OOP.csproj.AssemblyReference.cache
+D:\School\Comp1030-Programming Fund\intro to OOP\obj\Debug\net7.0\intro to OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\Comp1030-Programming Fund\intro to OOP\obj\Debug\net7.0\intro to OOP.AssemblyInfoInputs.cache
+D:\School\Comp1030-Programming Fund\intro to OOP\obj\Debug\net7.0\intro to OOP.AssemblyInfo.cs
+D:\School\Comp1030-Programming Fund\intro to OOP\obj\Debug\net7.0\intro to OOP.csproj.CoreCompileInputs.cache
+D:\School\Comp1030-Programming Fund\intro to OOP\obj\Debug\net7.0\intro to OOP.dll
+D:\School\Comp1030-Programming Fund\intro to OOP\obj\Debug\net7.0\refint\intro to OOP.dll
+D:\School\Comp1030-Programming Fund\intro to OOP\obj\Debug\net7.0\intro to OOP.pdb
+D:\School\Comp1030-Programming Fund\intro to OOP\obj\Debug\net7.0\intro to OOP.genruntimeconfig.cache
+D:\School\Comp1030-Programming Fund\intro to OOP\obj\Debug\net7.0\ref\intro to OOP.dll
