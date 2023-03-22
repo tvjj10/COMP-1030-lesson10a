@@ -49,6 +49,26 @@ class Student{
         this.birthDate = birthDate; // use the property method not the private field in order to keep validation
     }
     //public methods
+        //method to return letterr grade based on average value
+        public string getLetterGrade(){
+            if (this.average >= 90){
+                return "A";
+            }
+            else if( this.average >= 80){
+                return "B";
+            }
+            else if( this.average >= 70){
+                return "C";
+            }
+            else if( this.average >= 60){
+                return "D";
+            }
+            else{
+                return "F";
+            }
+
+        }
+
     //private methods
     
 }
